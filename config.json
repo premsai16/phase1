@@ -1,0 +1,142 @@
+{
+  "pois": [
+    {
+      "id": 1,
+      "screen_name": "JoeBiden",
+      "country": "USA",
+      "count": 500,
+      "finished": 0,
+      "reply_finished": 0
+    },
+    {
+      "id": 1,
+      "screen_name": "DrEricDing",
+      "country": "USA",
+      "count": 500,
+      "finished": 0,
+      "reply_finished": 0
+    },
+    {
+      "id": 1,
+      "screen_name": "Laurie_Garrett",
+      "country": "USA",
+      "count": 500,
+      "finished": 0,
+      "reply_finished": 0
+    },
+    {
+      "id": 1,
+      "screen_name": "NewYorkStateAG",
+      "country": "USA",
+      "count": 500,
+      "finished": 0,
+      "reply_finished": 0
+    },
+    {
+      "id": 1,
+      "screen_name": "PowerUSAID",
+      "country": "USA",
+      "count": 500,
+      "finished": 0,
+      "reply_finished": 0
+    },
+    {
+      "id": 1,
+      "screen_name": "KamalaHarris",
+      "country": "USA",
+      "count": 500,
+      "finished": 0,
+      "reply_finished": 0
+    },
+    {
+      "id": 1,
+      "screen_name": "GobiernoMX",
+      "country": "MEXICO",
+      "count": 500,
+      "finished": 0,
+      "reply_finished": 0
+    },
+    {
+      "id": 1,
+      "screen_name": "lopezobrador_",
+      "country": "MEXICO",
+      "count": 500,
+      "finished": 0,
+      "reply_finished": 0
+    },
+    {
+      "id": 1,
+      "screen_name": "HLGatell",
+      "country": "MEXICO",
+      "count": 500,
+      "finished": 0,
+      "reply_finished": 0
+    },
+    {
+      "id": 1,
+      "screen_name": "lopezdoriga",
+      "country": "MEXICO",
+      "count": 500,
+      "finished": 0,
+      "reply_finished": 0
+    },
+    {
+      "id": 1,
+      "screen_name": "ManceraMiguelMX",
+      "country": "MEXICO",
+      "count": 500,
+      "finished": 0,
+      "reply_finished": 0
+    },
+    {
+      "id": 1,
+      "screen_name": "narendramodi",
+      "country": "INDIA",
+      "count": 500,
+      "finished": 0,
+      "reply_finished": 0
+    },
+    {
+      "id": 1,
+      "screen_name": "nsitharaman",
+      "country": "INDIA",
+      "count": 500,
+      "finished": 0,
+      "reply_finished": 0
+    },
+    {
+      "id": 1,
+      "screen_name": "SonuSood",
+      "country": "INDIA",
+      "count": 500,
+      "finished": 0,
+      "reply_finished": 0
+    },
+    {
+      "id": 1,
+      "screen_name": "KTRTRS",
+      "country": "INDIA",
+      "count": 500,
+      "finished": 0,
+      "reply_finished": 0
+    },
+    {
+      "id": 1,
+      "screen_name": "PiyushGoyal",
+      "country": "INDIA",
+      "count": 500,
+      "finished": 0,
+      "reply_finished": 0
+    }
+  ],
+  "keywords": [
+    {
+      "id": 1,
+      "name": "covid vaccine",
+      "count": 100,
+      "lang": "en",
+      "country": "USA",
+      "finished": 0
+    }
+  ]
+}
